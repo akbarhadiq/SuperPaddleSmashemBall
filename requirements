@@ -1,0 +1,37 @@
+# Build a Screen First
+
+# Build a ball
+    # Build the ball logic
+    # Build the ball physics after building the paddle
+    # Ball requirements:
+        # Width = 20
+        # height = 20
+        # x_coordinate = 0
+        # y_coordinate  = 0
+
+# Build the paddle
+    # player 1 paddle
+    # Right paddle:
+        # width 20px
+        # height 100px
+        # x_pos = 350px
+        # y_pos = 0
+    # player 2 paddle
+        # opposite loc to player 1 paddle
+
+    # build the paddle logic
+
+# Build a scoreboard
+    # Player 1 Score
+    # Player 2 Score
+    # Build the scoreboard logic
+
+build in order to
+# Build Screen
+# Build player 1 paddle
+# Build player 2 paddle
+# Build paddle logic
+# Build ball
+# Build ball logic
+# Build score
+# Build score logic
